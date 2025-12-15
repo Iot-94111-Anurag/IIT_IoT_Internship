@@ -5,4 +5,3 @@ def integer_to_binary(num1):
 num = int(input("enter the number:"))
 integer_to_binary(num)
 
-# bin() - it is inbuild binary format converter 
